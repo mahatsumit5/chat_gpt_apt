@@ -1,0 +1,7 @@
+###testing server status
+POST http://localhost:8000/
+Content-Type: application/json
+
+{
+"prompt":"Hello who are you?"
+}
